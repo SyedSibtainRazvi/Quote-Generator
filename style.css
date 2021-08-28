@@ -56,3 +56,9 @@ footer {
     left: 0;
     right: 0;
 }
+@media only screen and (max-width: 600px) {
+    .container {
+        width: 80%;
+        height: 80vh;
+    }
+  }
